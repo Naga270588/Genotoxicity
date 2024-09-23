@@ -9,7 +9,7 @@ This project contains a machine learning model, along with the necessary code to
 
 ## Installation
 ### Prerequisites
-- Python 3.x
+- Python 3.11
 - Required libraries:
 - `numpy`
 - `pandas`
