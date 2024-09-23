@@ -1,7 +1,6 @@
-# Project Title: Genotoxicty Model Testing and Evaluation
-
+# Development of a Robust Machine Learning Model for Ames Test Outcome Prediction
 ## Overview
-This project contains a machine learning model, along with the necessary code to load the model and test it with new datasets. It is structured to facilitate easy usage and reproducibility.
+A machine learning model that could predict Ames mutagenicity based on 2D molecular descriptors was developed. A multistep filtering process that adequately helps in identifying significant descriptors was adopted in this study. The datasets were collected from different resources to develop a robust machine learning model. The robustness of this model was further validated by comparing different available ML and DL models for Ames genotoxicity. XGBoost model exhibited excellent performance, with an impressive AUC of 0.97.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -22,3 +21,6 @@ This project contains a machine learning model, along with the necessary code to
 
 ## Usage
 To use this project, open the Jupyter Notebook: `jupyter notebook`
+
+## To cite this
+**Coming Soon**
