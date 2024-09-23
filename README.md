@@ -13,6 +13,8 @@ A machine learning model that could predict Ames mutagenicity based on 2D molecu
 - `numpy`
 - `pandas`
 - `scikit-learn`
+- `RDkit`
+- `Mordred`
 - `os`
 
 ### Clone the repository
