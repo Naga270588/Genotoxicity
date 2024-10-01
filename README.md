@@ -25,5 +25,5 @@ A machine learning model that could predict Ames mutagenicity based on 2D molecu
 To use this project, open the Jupyter Notebook: `jupyter notebook`
 
 ## If you found this work useful, please cite the following article:
-Borah, G.S.; Nagamani, S. Development of a robust Machine learning model for Ames test outcome prediction, Chemical Physical Letters 856 (2024) 141663
+Borah, G.S.; Nagamani, S. Development of a robust Machine learning model for Ames test outcome prediction, Chemical Physical Letters 856 (2024) 141663. https://doi.org/10.1016/j.cplett.2024.141663 
 
